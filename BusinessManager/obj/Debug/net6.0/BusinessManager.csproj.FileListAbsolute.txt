@@ -1,0 +1,17 @@
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\BusinessManager.deps.json
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\BusinessManager.dll
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\BusinessManager.pdb
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\DataManager.dll
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\EntityManager.dll
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\DataManager.pdb
+C:\practice\.netcore\EmpWebApi\BusinessManager\bin\Debug\net6.0\EntityManager.pdb
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.csproj.AssemblyReference.cache
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.AssemblyInfoInputs.cache
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.AssemblyInfo.cs
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.csproj.CoreCompileInputs.cache
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.csproj.CopyComplete
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.dll
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\refint\BusinessManager.dll
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\BusinessManager.pdb
+C:\practice\.netcore\EmpWebApi\BusinessManager\obj\Debug\net6.0\ref\BusinessManager.dll

@@ -1,0 +1,12 @@
+C:\practice\.netcore\EmpWebApi\EntityManager\bin\Debug\net6.0\EntityManager.deps.json
+C:\practice\.netcore\EmpWebApi\EntityManager\bin\Debug\net6.0\EntityManager.dll
+C:\practice\.netcore\EmpWebApi\EntityManager\bin\Debug\net6.0\EntityManager.pdb
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.csproj.AssemblyReference.cache
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.AssemblyInfoInputs.cache
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.AssemblyInfo.cs
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.csproj.CoreCompileInputs.cache
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.dll
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\refint\EntityManager.dll
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\EntityManager.pdb
+C:\practice\.netcore\EmpWebApi\EntityManager\obj\Debug\net6.0\ref\EntityManager.dll
